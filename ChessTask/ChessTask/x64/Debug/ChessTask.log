@@ -1,0 +1,15 @@
+﻿  Bishop.cpp
+  Board.cpp
+  King.cpp
+  Knight.cpp
+  Manager.cpp
+  NullPiece.cpp
+  Pawn.cpp
+  Piece.cpp
+  Player.cpp
+  Queen.cpp
+  Rook.cpp
+  Source.cpp
+  stdafx.cpp
+  Generating Code...
+  ChessTask.vcxproj -> C:\Users\sarit\Desktop\MagshimimCPP\Training Assignments\MagshimimChessRepo\ChessTask\x64\Debug\ChessTask.exe
