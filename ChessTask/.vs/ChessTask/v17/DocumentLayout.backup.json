@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\sarit\\Desktop\\MagshimimCPP\\Training Assignments\\MagshimimChessRepo\\ChessTask\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54D2BCF6-B5A5-43EA-AC52-10262A1DB050}|ChessTask\\ChessTask.vcxproj|C:\\Users\\sarit\\Desktop\\MagshimimCPP\\Training Assignments\\MagshimimChessRepo\\ChessTask\\ChessTask\\Bishop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54D2BCF6-B5A5-43EA-AC52-10262A1DB050}|ChessTask\\ChessTask.vcxproj|solutionrelative:ChessTask\\Bishop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bishop.h",
+              "DocumentMoniker": "C:\\Users\\sarit\\Desktop\\MagshimimCPP\\Training Assignments\\MagshimimChessRepo\\ChessTask\\ChessTask\\Bishop.h",
+              "RelativeDocumentMoniker": "ChessTask\\Bishop.h",
+              "ToolTip": "C:\\Users\\sarit\\Desktop\\MagshimimCPP\\Training Assignments\\MagshimimChessRepo\\ChessTask\\ChessTask\\Bishop.h",
+              "RelativeToolTip": "ChessTask\\Bishop.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-03T21:19:05.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
